@@ -1,6 +1,6 @@
 # CS-330-10510-M01-Comp-Graphic-and-Visualization
 
-Portfolio Reflection
+# Portfolio Reflection
 
 # How do I approach designing software?
 
