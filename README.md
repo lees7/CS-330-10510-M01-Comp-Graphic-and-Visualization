@@ -49,6 +49,6 @@ Computer science strengthens my analytical thinking, problem-solving skills, and
 
 Computational graphics improved my understanding of mathematical modeling, transformation matrices, and rendering pipelines. These concepts enhance my broader understanding of system architecture and performance optimization.
 
-How do computational graphics support your professional goals?
+# How do computational graphics support your professional goals?
 
 In professional contexts, visualization and simulation are powerful tools for communication, prototyping, and system modeling. The ability to build interactive visual systems enhances my capacity to develop user-centered applications and technical demonstrations.
