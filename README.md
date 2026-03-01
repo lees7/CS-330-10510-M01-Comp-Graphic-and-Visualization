@@ -1,5 +1,7 @@
 # CS-330-10510-M01-Comp-Graphic-and-Visualization
+
 Portfolio Reflection
+
 How do I approach designing software?
 I approach software design by first identifying the core functionality and user interaction requirements before implementing code. For this project, I focused on structuring the 3D scene logically, identifying objects, textures, lighting, and camera controls as separate components. I prioritize modular design, clear object responsibilities, and visual planning before implementation.
 
